@@ -31,7 +31,7 @@ pip install pygame
 ### Running the Game
 Clone this repository and navigate to the project folder:
 ```bash
-git clone https://github.com/yourusername/2048-game.git
+git clone https://github.com/rajkajare/2048-game.git
 cd 2048-game
 python 2048.py
 ```
