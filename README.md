@@ -12,7 +12,13 @@ This is a Python-based implementation of the classic **2048** game using **Pygam
 - **Winning & Losing Conditions**: The game ends when no more moves are possible or when a tile reaches 2048.
 
 ## 🎥 Demo
-https://github.com/user-attachments/assets/64a08632-e456-48d1-871f-9a28399d4d24
+
+
+https://github.com/user-attachments/assets/24c82949-17ad-4522-9baa-ca5dc327d344
+
+
+
+
 
 
 ## 🖥️ Installation
